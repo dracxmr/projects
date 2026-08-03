@@ -9,13 +9,11 @@ A collection of infrastructure automation scripts, security simulation tools, an
 * **Drac's Eye | Custom C2 Research Framework**
   An offensive Command and Control (C2) simulation framework built from the ground up to research adversary techniques, validate defensive posture, and demonstrate how advanced threats maintain persistence and execute post-exploitation activities in controlled environments.
   * **Centralized Session Orchestration:** A custom control plane interface designed to monitor, track, and manage persistent agent beacons across simulated target environments.
-  * **Defensive Evasion Research:** Implements conceptual runtime memory patching mechanics—including AMSI (Antimalware Scan Interface) and ETW (Event Tracing for Windows) bypasses—to analyze how modern endpoints detect evasion techniques.
+  * **Defensive Evasion Research:** Implements conceptual runtime memory patching mechanics including AMSI (Antimalware Scan Interface) and ETW (Event Tracing for Windows) bypasses to analyze how modern endpoints detect evasion techniques.
   * **Post-Exploitation Triage Modules:** Features modular capability testing for security assessment, including local credential auditing (browser, credential manager, and Wi-Fi data), keystroke capture simulation, and hardware telemetry gathering (webcam/microphone validation).
   * **Lateral Reconnaissance Engine:** Embedded network assessment utilities, such as automated ARP scanning, allowing security operators to map out adjacent live hosts from a compromised node during internal assessments.
 
 [![Drac's Eye Showcase](https://img.youtube.com/vi/tzHiZBDCOCE/0.jpg)](https://www.youtube.com/watch?v=tzHiZBDCOCE)
-
----
 
 ### 2. Security & Threat Intelligence Engineering
 
